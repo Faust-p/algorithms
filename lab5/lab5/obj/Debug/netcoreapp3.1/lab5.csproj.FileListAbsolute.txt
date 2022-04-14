@@ -1,0 +1,14 @@
+D:\PGU\algoritm\progr\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\PGU\algoritm\progr\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\PGU\algoritm\progr\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\PGU\algoritm\progr\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\PGU\algoritm\progr\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\PGU\algoritm\progr\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.AssemblyReference.cache
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\PGU\algoritm\progr\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache
