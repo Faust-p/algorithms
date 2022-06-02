@@ -1,0 +1,14 @@
+D:\PGU\algoritm\progr\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.exe
+D:\PGU\algoritm\progr\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.deps.json
+D:\PGU\algoritm\progr\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.json
+D:\PGU\algoritm\progr\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.dev.json
+D:\PGU\algoritm\progr\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.dll
+D:\PGU\algoritm\progr\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.pdb
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.AssemblyReference.cache
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CoreCompileInputs.cache
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.dll
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.pdb
+D:\PGU\algoritm\progr\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.genruntimeconfig.cache
