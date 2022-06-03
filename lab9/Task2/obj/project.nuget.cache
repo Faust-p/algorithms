@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Prwk/yW96psTvoWXZRbxztflOs9xhtUB37ftodVRkviuFJdkC/IL/XuS5L6NijOBimKGp32hPjoxJIWs5pp6xw==",
+  "success": true,
+  "projectFilePath": "D:\\PGU\\algoritm\\progr\\lab9\\Task2\\Task 2.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adama\\.nuget\\packages\\microsoft.experimental.collections\\1.0.6-e190117-3\\microsoft.experimental.collections.1.0.6-e190117-3.nupkg.sha512"
+  ],
+  "logs": []
+}
