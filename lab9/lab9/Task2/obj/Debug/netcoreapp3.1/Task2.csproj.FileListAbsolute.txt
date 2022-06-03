@@ -1,0 +1,16 @@
+D:\PGU\algoritm\progr\lab9\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+D:\PGU\algoritm\progr\lab9\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+D:\PGU\algoritm\progr\lab9\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+D:\PGU\algoritm\progr\lab9\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+D:\PGU\algoritm\progr\lab9\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+D:\PGU\algoritm\progr\lab9\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
+D:\PGU\algoritm\progr\lab9\Task2\bin\Debug\netcoreapp3.1\Microsoft.Experimental.Collections.dll
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.AssemblyReference.cache
+D:\PGU\algoritm\progr\lab9\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CopyComplete
